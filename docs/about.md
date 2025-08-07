@@ -4,21 +4,12 @@ title: About
 permalink: /about/
 ---
 
-sltoo is a free and open source requirements management tool.
-It is a fork of [rmtoo](https://github.com/florath/rmtoo).
+*sltoo* is a free and open source *software/simple lifecycle management tool*.
+It intends to build on a set of widely used tools.
 
-sltoo uses a different approach than most other requirements
-management tools: it comes as a command line tool which is optimized
-for handling requirements. The power of sltoo lies in the fact that
-the development environment can handle the input and output files -
-there is no need for a special tool set environment.
+# rmtoo
 
-Example: if you need to handle baselines (and there often is), sltoo
-can be configured using a revision control system, e.g., git. The
-revision control system can handle different revisions, baselining,
-tagging, branching and many other things extremely well - there is no
-reason to reinvent the wheel and making it less efficient.
+There was once a plan to just fork [rmtoo](http://rmtoo.florath.net/), hence
+the pypi entry. Now the python release is just a laboratory for new features
+and some more freedom.
 
-Let one thing do one thing.
-
-See the [release notes](../release_notes/) for the release history.

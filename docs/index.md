@@ -5,9 +5,7 @@
 layout: home
 ---
 
-*sltoo* extends [rmtoo](http://rmtoo.florath.net/)—a text based requirements
-tracking tool—with traceability features and Excel import and export. It's a
-CLI tool that will generate PDF outputs amongst other.
+This is currently WIP and not applicable.
 
 ## Who
 
